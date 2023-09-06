@@ -6,6 +6,9 @@ A CRUD app is a specific type of software application that consists of four basi
 You Can See Live Demo Here : 
 [https://crud-reactjs-app.netlify.app/](https://crud-reactjs-app.netlify.app/)
 
+## used technologies :
+
+React.js - Redux toolkit - React router - Bootstrap
 
 ## Installation
 
