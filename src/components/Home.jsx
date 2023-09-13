@@ -23,7 +23,7 @@ function Home() {
                         </tr>
                     </thead>
                     <tbody>
-                            {users.map((user , index) => {
+                            {users.length === 0 ? <h4 className='my-4'>No users found. </h4> : users.map((user , index) => {
                                 return (
                                     <tr key={index}>
                                         <td>{user.id}</td>
